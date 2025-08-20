@@ -1,4 +1,5 @@
 For processing steps, see the paper (Methods).
+
 Data: 
 large files (.tif rasters) come from "ESA WorldCover" and "Copernicus CLC+".  
 R scripts assume the default download filenames (do not rename the tiles).
