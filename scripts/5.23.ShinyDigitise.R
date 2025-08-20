@@ -1,0 +1,5 @@
+#remotes::install_github("EIvimeyCook/ShinyDigitise", force = TRUE)
+library(shinyDigitise)
+df<-shinyDigitise()
+stopApp()
+print(df)

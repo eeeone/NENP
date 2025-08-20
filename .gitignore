@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+output/
+data/**/*.tif
+data/**/*.tiff
+data/**/*.vrt
+data/**/*.zip
