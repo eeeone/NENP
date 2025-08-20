@@ -7,3 +7,7 @@ ESA WorldCover:
 - Data access: [https://esa-worldcover.org/en/data-access](https://esa-worldcover.org/en/data-access)
 CLC+ Backbone:
 - Data access: [https://land.copernicus.eu/en/products/clc-backbone/clc-backbone-2021](https://land.copernicus.eu/en/products/clc-backbone/clc-backbone-2018)
+
+Data tables：
+"NENP_data_extraction_spreadsheet.xlsx" : the complete data extraction spreadsheet，including metadata.
+"data7.csv" : analysis-ready extracted data used by the R scripts.
